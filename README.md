@@ -27,8 +27,8 @@ In-order to run the "Anita's Kitchen Web-Page" you require a well working web br
 Open the repository link "   ", click on the leave site URL on the right hand side, copy the link, go the search button in the web-broswer, paste the link and hit enter.
 
 ## DEMOS & SCREEN-SHOTS FOR THE WEB-PAGE.
-
-
+![Alt text](<Screenshot (52).png>)
+![Alt text](<Screenshot (53).png>)
 
 ## AUTHOR INFO
 
