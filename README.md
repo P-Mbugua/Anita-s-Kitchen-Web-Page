@@ -27,8 +27,23 @@ In-order to run the "Anita's Kitchen Web-Page" you require a well working web br
 Open the repository link "   ", click on the leave site URL on the right hand side, copy the link, go the search button in the web-broswer, paste the link and hit enter.
 
 ## DEMOS & SCREEN-SHOTS FOR THE WEB-PAGE.
-![Alt text](<Screenshot (52).png>)
-![Alt text](<Screenshot (53).png>)
+![Screenshot (52)](https://github.com/Petermbugu/Anita-s-Kitchen-Web-Page/assets/125895000/e400e24b-0304-4fb0-8c0d-2382d2b5328b)
+
+![Screenshot (53)](https://github.com/Petermbugu/Anita-s-Kitchen-Web-Page/assets/125895000/cf8700ae-6da1-4e35-9077-6b471c452a11)
+
+![Screenshot (54)](https://github.com/Petermbugu/Anita-s-Kitchen-Web-Page/assets/125895000/3092ab74-4096-46a5-8845-ab0d333851b1)
+
+![Screenshot (55)](https://github.com/Petermbugu/Anita-s-Kitchen-Web-Page/assets/125895000/c5ada522-ef4f-4ea0-babb-3e239ff0e3b9)
+
+![Screenshot (56)](https://github.com/Petermbugu/Anita-s-Kitchen-Web-Page/assets/125895000/8611268b-4c72-44c5-8806-55cba0f264d8)
+
+![Screenshot (57)](https://github.com/Petermbugu/Anita-s-Kitchen-Web-Page/assets/125895000/cc31e587-fb7a-45d4-95db-8bf133f2f1ea)
+
+![Screenshot (58)](https://github.com/Petermbugu/Anita-s-Kitchen-Web-Page/assets/125895000/47bef417-d47c-482c-859d-3445f711f202)
+
+
+
+
 
 ## AUTHOR INFO
 
